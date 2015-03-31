@@ -40,6 +40,8 @@ public class MainActivity extends Activity {
         remote.getSettings().setJavaScriptEnabled(true);
 
         if(getIp() != "Not Available" ) {
+
+
             remote.loadUrl(getUrl());
 
             Log.d("WebView", "Loading Site");
