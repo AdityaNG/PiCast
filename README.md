@@ -6,3 +6,8 @@ About the PiCast Project here: https://github.com/vincent-lwt/RaspberryCast
 - Once the user set an IP, the page is downloaded, so it can load faster the next time
 - Automatically ask for the IP on the first use
 - A button in the settings page to redownload and update the page
+
+##To install
+The apk file is present in the following directory:
+/PiCast/app/build/outputs/apk/app-debug.apk . 
+You can installing it by downloading the app-debug.apk and launching it from a filemanager.
